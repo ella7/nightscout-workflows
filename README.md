@@ -5,7 +5,7 @@
 ### Installation
 You first need to make sure Workflow is installed on your device. 
 
-[Get Workflow]
+[Get Workflow App]
 
 Click on one of the links below to get the desired workflow. Workflow will ask for a few inputs (i.e.: your Nightscout URL). You can make additional customizations and configurations from within the app. 
 
