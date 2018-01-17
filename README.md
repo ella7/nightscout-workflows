@@ -7,10 +7,10 @@ You first need to make sure Workflow is installed on your device.
 
 [Get Workflow App]
 
-Click on one of the links below to get the desired workflow. Workflow will ask for a few inputs (i.e.: your Nightscout URL). You can make additional customizations and configurations from within the app. 
+Click on one of the links below to get the desired workflow. Workflow will ask for a few inputs (i.e.: your Nightscout URL). You can make additional customizations and configurations from within the app. You must click on the link(s) below from within Safari. If you're coming from Facebook, use the "open this page in Safari" option before clicking on the link(s) below. 
 
 ### Workflows
- - [Meter BG] Simple workflow to enter a metered blood glucose value and save to CarePortal.
+ - [Meter BG] Simple workflow to enter a metered blood glucose value and save to CarePortal. *** When asked for your Nightscout URL, add /api/v1/treatments.json to the end. This is a temporary workaround. ***
 
 ### Todos
 
