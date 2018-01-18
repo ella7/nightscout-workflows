@@ -28,5 +28,5 @@ Apache 2.0
 
 [Workflow]: http://workflow.is/
 [Get Workflow App]: http://workflow.is/download
-[Meter BG]: workflow://import-workflow?url=[https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow]
+[Meter BG]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow
 [OpenAPS Documentation]: http://openaps.readthedocs.io/en/latest/docs/Customize-Iterate/ifttt-integration.html#ifttt-setup-for-phones
