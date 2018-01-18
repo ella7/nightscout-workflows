@@ -12,7 +12,7 @@ Click on one of the links below to get the desired workflow. Workflow will ask f
 When asked for your hashed API secret, please note that this is not the same as your normal API secret. For more details, please see the [OpenAPS Documentation] on this topic. 
 
 ### Workflows
- - [Meter BG] Simple workflow to enter a metered blood glucose value and save to CarePortal. *** When asked for your Nightscout URL, add /api/v1/treatments.json to the end. This is a temporary workaround. ***
+ - [Meter BG](workflow://import-workflow?url=[https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow]) - Simple workflow to enter a metered blood glucose value and save to CarePortal. *** When asked for your Nightscout URL, add /api/v1/treatments.json to the end. This is a temporary workaround. ***
 
 ### Todos
 
@@ -28,5 +28,4 @@ Apache 2.0
 
 [Workflow]: http://workflow.is/
 [Get Workflow App]: http://workflow.is/download
-[Meter BG]: workflow://import-workflow?url=[https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow]
 [OpenAPS Documentation]: http://openaps.readthedocs.io/en/latest/docs/Customize-Iterate/ifttt-integration.html#ifttt-setup-for-phones
