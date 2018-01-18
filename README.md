@@ -9,6 +9,8 @@ You first need to make sure Workflow is installed on your device.
 
 Click on one of the links below to get the desired workflow. Workflow will ask for a few inputs (i.e.: your Nightscout URL). You can make additional customizations and configurations from within the app. You must click on the link(s) below from within Safari. If you're coming from Facebook, use the "open this page in Safari" option before clicking on the link(s) below. 
 
+When asked for your hashed API secret, please note that this is not the same as your normal API secret. For more details, please see the [OpenAPS Documentation] on this topic. 
+
 ### Workflows
  - [Meter BG] Simple workflow to enter a metered blood glucose value and save to CarePortal. *** When asked for your Nightscout URL, add /api/v1/treatments.json to the end. This is a temporary workaround. ***
 
@@ -27,3 +29,4 @@ Apache 2.0
 [Workflow]: http://workflow.is/
 [Get Workflow App]: http://workflow.is/download
 [Meter BG]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow
+[OpenAPS Documentation]: http://openaps.readthedocs.io/en/latest/docs/Customize-Iterate/ifttt-integration.html#ifttt-setup-for-phones
