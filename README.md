@@ -17,6 +17,7 @@ Click on one of the links below to get the desired workflow. Workflow will ask f
 ### Workflows
  - [Meter BG] Simple workflow to enter a metered blood glucose value and save to CarePortal.
  - [Change Site] Log a pump site change to CarePortal.
+ - [Enter Carbs] Enter carbs in CarePortal for a specified time.
 
 
 ### Todos
@@ -36,3 +37,4 @@ Apache 2.0
 [OpenAPS Documentation]: http://openaps.readthedocs.io/en/latest/docs/Customize-Iterate/ifttt-integration.html#ifttt-setup-for-phones
 [Meter BG]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow
 [Change Site]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Change%20Site.wflow
+[Enter Carbs]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Enter%20Carbs.wflow
