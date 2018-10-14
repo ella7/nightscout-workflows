@@ -18,6 +18,8 @@ Click on one of the links below to get the desired workflow. Workflow will ask f
  - [Meter BG] Simple workflow to enter a metered blood glucose value and save to CarePortal.
  - [Change Site] Log a pump site change to CarePortal.
  - [Enter Carbs] Enter carbs in CarePortal for a specified time.
+ - [Set Temp Target] Awesome set of workflows for setting a temporary target in Nightscout (thanks Ben).
+ - [Change Pump Battery] Log a pump battery change in Nightscout/Careportal
 
 
 ### Todos
@@ -38,3 +40,5 @@ Apache 2.0
 [Meter BG]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Meter%20BG.wflow
 [Change Site]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Change%20Site.wflow
 [Enter Carbs]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Enter%20Carbs.wflow
+[Set Temp Target]: https://github.com/ella7/nightscout-workflows/issues/5
+[Change Pump Battery]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Change%20Pump%20Battery.wflow
