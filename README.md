@@ -20,6 +20,7 @@ Click on one of the links below to get the desired workflow. Workflow will ask f
  - [Enter Carbs] Enter carbs in CarePortal for a specified time.
  - [Set Temp Target] Awesome set of workflows for setting a temporary target in Nightscout (thanks Ben).
  - [Change Pump Battery] Log a pump battery change in Nightscout/Careportal
+ - [Start Sensor] Log a newly started CGM sensor to Nightscout/Careportal
 
 
 ### Todos
@@ -42,3 +43,4 @@ Apache 2.0
 [Enter Carbs]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Enter%20Carbs.wflow
 [Set Temp Target]: https://github.com/ella7/nightscout-workflows/issues/5
 [Change Pump Battery]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Change%20Pump%20Battery.wflow
+[Start Sensor]: https://github.com/ella7/nightscout-workflows/raw/master/workflows/Start%20Sensor.wflow
